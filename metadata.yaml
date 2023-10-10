@@ -1,0 +1,41 @@
+_repo: Leaves-from-a-middy-s-log_71750
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knight, Arthur Lee
+    birthdate: 1852
+    deathdate: 1944
+    gutenberg_agent_id: '56378'
+    url: http://www.gutenberg.org/2009/agents/56378
+description: ''
+gutenberg_issued: '2023-09-28'
+identifiers:
+  gutenberg: '71750'
+language: en
+pgterms:marc905: 20230218113152knight
+pgterms:marc906: '1896'
+pgterms:marc907: GB
+production_note: Bob Taylor, hekula03 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bThomas Nelson and Sons, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'Escapes -- Juvenile fiction'
+- !lcsh 'Cuba -- Juvenile fiction'
+- !lcsh 'Mutiny -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcsh 'Midshipmen -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Leaves from a middy's log
+url: http://www.gutenberg.org/ebooks/71750
