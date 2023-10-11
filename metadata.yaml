@@ -1,5 +1,8 @@
 _repo: Leaves-from-a-middy-s-log_71750
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71750-h/images/cover.jpg
 creator:
   author:
     agent_name: Knight, Arthur Lee
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '56378'
     url: http://www.gutenberg.org/2009/agents/56378
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71750#Leaves-from-a-middy-s-log
 gutenberg_issued: '2023-09-28'
 identifiers:
   gutenberg: '71750'
